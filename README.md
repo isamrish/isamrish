@@ -1,8 +1,8 @@
 ### Hi there, I am Amrish 👋
 
-:crossed_fingers:  Front End Developer @mayadata-io
+:rocket: Front End Developer @mayadata-io
 
-:india:  Born and lives in India
+:india: Born and lives in India
 
 ### Find me elsewhere :earth_asia:
 
