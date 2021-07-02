@@ -1,6 +1,6 @@
 ### Hi there, I am Amrish 👋
 
-:rocket: Front End Developer @mayadata-io
+:rocket: Front End Developer [@mayadata-io](https://github.com/mayadata-io)
 
 :india: Born and lives in India
 
@@ -12,6 +12,9 @@
 
 :briefcase: [LinkedIn](https://www.linkedin.com/in/isamrish/)
 
+### Me on GitHub :computer:
+
+![Amrish Kushwaha's GitHub stats](https://github-readme-stats.vercel.app/api?username=isamrish&show_icons=true&count_private=true)
 
 <!--
 **IsAmrish/isamrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
