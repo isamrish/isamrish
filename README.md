@@ -1,6 +1,6 @@
 ### Hi there, I am Amrish 👋
 
-:rocket: Front End Developer [@mayadata-io](https://github.com/mayadata-io)
+:rocket: Front End Developer
 
 :india: Born and lives in India
 
