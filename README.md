@@ -4,7 +4,7 @@
 
 :india: Born in India
 
-:canada: Lives in Canada
+:canada: Currently in Canada
 
 ### Find me elsewhere :earth_asia:
 
