@@ -2,13 +2,13 @@
 
 :rocket: Front End Developer
 
-:india: Born and lives in India
+:india: Born in India
+
+:canada: Lives in Canada
 
 ### Find me elsewhere :earth_asia:
 
-:rocket: [Blog](https://isamrish.com/)
-
-:bird: [Twitter](https://twitter.com/isamrish)
+:rocket: [Blog](https://isamrish.dev/)
 
 :briefcase: [LinkedIn](https://www.linkedin.com/in/isamrish/)
 
