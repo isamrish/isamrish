@@ -8,7 +8,7 @@
 
 ### Find me elsewhere :earth_asia:
 
-:rocket: [Blog](https://isamrish.dev/)
+:rocket: [Personal Website](https://amrishkushwaha/)
 
 :briefcase: [LinkedIn](https://www.linkedin.com/in/isamrish/)
 
