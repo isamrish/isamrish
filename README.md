@@ -1,6 +1,6 @@
 ### Hi there, I am Amrish 👋
 
-:rocket: Front End Developer
+:rocket: Engineer
 
 :india: Born in India
 
